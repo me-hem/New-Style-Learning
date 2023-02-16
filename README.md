@@ -1,2 +1,4 @@
 # New-Style-Learning
 C++ Software to reduce depression and boost moral of students.
+
+A software program has been developed with the aim of increasing student morale through the use of multiple-choice questions (MCQs) of varying levels of difficulty. The MCQs are designed with three correct options in odd-numbered questions, and only one correct option in even-numbered questions. The software provides detailed explanations for the MCQs, as well as hints for the next question, in order to promote active engagement and deep learning. At the end of the quiz or exam, the software provides a summary of key concepts, which can be used to reinforce learning and identify areas where further review or practice may be needed. Overall, the software is intended to create a positive and supportive learning environment that encourages student engagement, provides clear and meaningful feedback, and promotes the development of critical thinking and problem-solving skills.
